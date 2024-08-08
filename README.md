@@ -9,8 +9,6 @@ An awesome curated knowledge-base about atomic systems
 These should be enough to get you started:
 
 - [“Immutable” → reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/) - Colin Walters
-- [The Birth of the Kubic Desktop](https://rootco.de/2017-11-16-hackweek-2017-conclusion/) - Richard Brown
-- [Project Atomic + Docker: A post package world?](https://blog.verbum.org/2014/07/10/project-atomic-docker-a-post-package-world/) - Colin Walters - it's an older post but it checks out
 - [Immutable Operating Systems: A Survey](https://www.researchgate.net/publication/370528248_Immutable_Operating_Systems_A_Survey) - Sebastian Böhm and Guido Wirtz, University of Bamberg, Germany - A short scientific publication that conceptualizes, defines, and outlines use cases and limitations of Immutable Operating Systems.
 
 ## Talks and Videos
@@ -18,7 +16,6 @@ These should be enough to get you started:
 - [The Fedora Podcast - Episode 30](https://www.youtube.com/watch?v=cHYyGVOae84) - Jorge Castro and Timothee Ravier talk about Silverblue and the future of Immutable Desktops.
 - [Linux Downtime - Episode 39](https://www.youtube.com/watch?v=CiyjZwd4Jrs) - I went on this podcast to talk about this list, image based desktops, flatpaks, and all that stuff. If you are lost start here!
 - [The Read Only Scenario](https://linuxunplugged.com/468) - An excellent introduction to these kinds of desktops
-- [Kubic - openSUSEs Container Starship](https://speakerdeck.com/sysrich/kubic-opensuses-container-starship) - Richard Brown
 - [openSUSE MicroOS](https://www.youtube.com/watch?v=nIwqzGbX-oc) - Richard Brown
 - [Can MicroOS Desktop be your Daily Driver?](https://www.youtube.com/watch?v=6F7iCntjWB8) - Dario Faggioli
 - [MicroOS Desktop: The Road to Daily Driving](https://www.youtube.com/watch?v=cZLckDUDYjw) - Richard Brown
@@ -30,7 +27,6 @@ These should be enough to get you started:
 - [Learning the difference between Red Hat distributions and what Fedora Silverblue is](https://www.youtube.com/watch?v=U8U2pEyeI6E) - JJ Asghar
 - [Linux After Dark – Episode 07](https://linuxafterdark.net/linux-after-dark-episode-07/) - the hosts tried silverblue and did an episode on their experiences.
 - [Fedora Silverblue: An Immutable OS](https://www.youtube.com/watch?v=K-FqVWFh01w)
-- [What's new in (rpm-)ostree - 2022 edition! - DevConf.CZ 2022](https://www.youtube.com/watch?v=lEDihzhsIjE)
 - [Fedora 36 Silverblue: The 3 Guiding Principles for a Successful Experience](https://www.youtube.com/watch?v=zhBnuVVdd6Y) - excellent introduction video that covers lots of tips and tricks.
 - [How we build and maintain Kairos](https://www.youtube.com/watch?v=XD5nfMf59v4) - Mauro Morales, FOSDEM 2023
 - [Meet Kairos, an OSS project building the immutable Kubernetes edge](https://www.youtube.com/watch?v=kiDQujibz2k) - Ettore Di Giacinto and Nic Vermande
@@ -58,7 +54,7 @@ The Future is Now™, try one of these today!
 			- [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/)
 			- [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
 - openSUSE Atomic
-	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers that serves as a base of openSUSE Kubic, a Container as a Service platform.
+	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment,featuring containers with Distrobox.
 	- [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - An atomic variant of openSUSE with the KDE Plasma desktop environment,featuring containers with Distrobox.
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
